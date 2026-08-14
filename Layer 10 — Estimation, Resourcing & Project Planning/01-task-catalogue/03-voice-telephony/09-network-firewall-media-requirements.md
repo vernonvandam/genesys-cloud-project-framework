@@ -1,5 +1,3 @@
-<!-- FILE: 09-network-firewall-media-requirements.md -->
-
 # Layer 10 — 2.03.09 Network, Firewall & Media Requirements
 
 ## Capability Reference

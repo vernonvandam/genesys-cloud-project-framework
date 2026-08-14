@@ -1,5 +1,3 @@
-<!-- FILE: 20-physical-phones-endpoints.md -->
-
 # Layer 10 — 2.03.20 Physical Phones & Endpoints
 
 ## Capability Reference

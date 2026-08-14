@@ -1,5 +1,3 @@
-<!-- FILE: 07-sites.md -->
-
 # Layer 10 — 2.03.07 Sites
 
 ## Capability Reference

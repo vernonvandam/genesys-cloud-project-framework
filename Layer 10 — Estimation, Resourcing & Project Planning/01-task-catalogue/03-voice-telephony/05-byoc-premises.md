@@ -1,5 +1,3 @@
-<!-- FILE: 05-byoc-premises.md -->
-
 # Layer 10 — 2.03.05 BYOC Premises
 
 ## Capability Reference

@@ -1,5 +1,3 @@
-<!-- FILE: 02-telephony-model-selection.md -->
-
 # Layer 10 — 2.03.02 Telephony Model Selection
 
 ## Capability Reference

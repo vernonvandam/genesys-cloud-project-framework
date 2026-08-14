@@ -1,5 +1,3 @@
-<!-- FILE: 31-telephony-migration-cutover.md -->
-
 # Layer 10 — 2.03.31 Telephony Migration & Cutover
 
 ## Capability Reference

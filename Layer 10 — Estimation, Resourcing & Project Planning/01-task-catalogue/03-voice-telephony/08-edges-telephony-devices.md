@@ -1,5 +1,3 @@
-<!-- FILE: 08-edges-telephony-devices.md -->
-
 # Layer 10 — 2.03.08 Edges & Telephony Devices
 
 ## Capability Reference

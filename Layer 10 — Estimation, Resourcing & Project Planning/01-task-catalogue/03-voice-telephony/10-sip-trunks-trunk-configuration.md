@@ -1,5 +1,3 @@
-<!-- FILE: 10-sip-trunks-trunk-configuration.md -->
-
 # Layer 10 — 2.03.10 SIP Trunks & Trunk Configuration
 
 ## Capability Reference

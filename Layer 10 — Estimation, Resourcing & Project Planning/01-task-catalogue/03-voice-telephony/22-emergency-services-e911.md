@@ -1,5 +1,3 @@
-<!-- FILE: 22-emergency-services-e911.md -->
-
 # Layer 10 — 2.03.22 Emergency Services / E911
 
 ## Capability Reference

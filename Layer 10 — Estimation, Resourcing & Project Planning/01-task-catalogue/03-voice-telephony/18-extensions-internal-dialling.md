@@ -1,5 +1,3 @@
-<!-- FILE: 18-extensions-internal-dialling.md -->
-
 # Layer 10 — 2.03.18 Extensions & Internal Dialling
 
 ## Capability Reference

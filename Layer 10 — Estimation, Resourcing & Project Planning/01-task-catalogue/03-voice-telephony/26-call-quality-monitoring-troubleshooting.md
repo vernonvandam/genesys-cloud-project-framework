@@ -1,5 +1,3 @@
-<!-- FILE: 26-call-quality-monitoring-troubleshooting.md -->
-
 # Layer 10 — 2.03.26 Call Quality Monitoring & Troubleshooting
 
 ## Capability Reference

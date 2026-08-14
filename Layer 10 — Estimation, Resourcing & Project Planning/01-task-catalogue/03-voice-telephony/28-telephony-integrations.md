@@ -1,5 +1,3 @@
-<!-- FILE: 28-telephony-integrations.md -->
-
 # Layer 10 — 2.03.28 Telephony Integrations
 
 ## Capability Reference

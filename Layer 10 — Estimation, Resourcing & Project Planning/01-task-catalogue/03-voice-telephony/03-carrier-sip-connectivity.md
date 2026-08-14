@@ -1,5 +1,3 @@
-<!-- FILE: 03-carrier-sip-connectivity.md -->
-
 # Layer 10 — 2.03.03 Carrier & SIP Connectivity
 
 ## Capability Reference

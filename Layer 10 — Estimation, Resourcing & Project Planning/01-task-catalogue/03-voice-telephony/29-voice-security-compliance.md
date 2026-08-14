@@ -1,5 +1,3 @@
-<!-- FILE: 29-voice-security-compliance.md -->
-
 # Layer 10 — 2.03.29 Voice Security & Compliance
 
 ## Capability Reference

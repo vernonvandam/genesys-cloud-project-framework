@@ -1,5 +1,3 @@
-<!-- FILE: 04-byoc-cloud.md -->
-
 # Layer 10 — 2.03.04 BYOC Cloud
 
 ## Capability Reference

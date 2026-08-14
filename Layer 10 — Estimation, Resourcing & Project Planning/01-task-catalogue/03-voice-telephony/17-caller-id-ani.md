@@ -1,5 +1,3 @@
-<!-- FILE: 17-caller-id-ani.md -->
-
 # Layer 10 — 2.03.17 Caller ID & ANI
 
 ## Capability Reference

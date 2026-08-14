@@ -1,5 +1,3 @@
-<!-- FILE: 19-webrtc-browser-telephony.md -->
-
 # Layer 10 — 2.03.19 WebRTC & Browser Telephony
 
 ## Capability Reference

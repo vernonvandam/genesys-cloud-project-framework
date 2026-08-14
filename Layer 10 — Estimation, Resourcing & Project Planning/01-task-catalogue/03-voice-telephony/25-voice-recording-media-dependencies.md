@@ -1,5 +1,3 @@
-<!-- FILE: 25-voice-recording-media-dependencies.md -->
-
 # Layer 10 — 2.03.25 Voice Recording & Media Dependencies
 
 ## Capability Reference

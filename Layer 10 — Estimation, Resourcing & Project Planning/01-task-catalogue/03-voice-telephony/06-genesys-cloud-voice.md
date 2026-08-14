@@ -1,5 +1,3 @@
-<!-- FILE: 06-genesys-cloud-voice.md -->
-
 # Layer 10 — 2.03.06 Genesys Cloud Voice
 
 ## Capability Reference

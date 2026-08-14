@@ -1,5 +1,3 @@
-<!-- FILE: 32-voice-operations-bau.md -->
-
 # Layer 10 — 2.03.32 Voice Operations & BAU
 
 ## Capability Reference

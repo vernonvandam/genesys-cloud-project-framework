@@ -1,5 +1,3 @@
-<!-- FILE: 27-fax-special-telephony-services.md -->
-
 # Layer 10 — 2.03.27 Fax & Special Telephony Services
 
 ## Capability Reference

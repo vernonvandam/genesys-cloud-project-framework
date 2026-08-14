@@ -1,5 +1,3 @@
-<!-- FILE: 24-carrier-redundancy-resilience.md -->
-
 # Layer 10 — 2.03.24 Carrier Redundancy & Resilience
 
 ## Capability Reference

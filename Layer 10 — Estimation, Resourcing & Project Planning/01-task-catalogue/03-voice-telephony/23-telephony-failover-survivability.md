@@ -1,5 +1,3 @@
-<!-- FILE: 23-telephony-failover-survivability.md -->
-
 # Layer 10 — 2.03.23 Telephony Failover & Survivability
 
 ## Capability Reference

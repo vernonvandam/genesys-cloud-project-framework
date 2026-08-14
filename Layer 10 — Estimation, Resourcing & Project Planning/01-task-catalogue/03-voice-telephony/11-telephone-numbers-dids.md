@@ -1,5 +1,3 @@
-<!-- FILE: 11-telephone-numbers-dids.md -->
-
 # Layer 10 — 2.03.11 Telephone Numbers & DIDs
 
 ## Capability Reference

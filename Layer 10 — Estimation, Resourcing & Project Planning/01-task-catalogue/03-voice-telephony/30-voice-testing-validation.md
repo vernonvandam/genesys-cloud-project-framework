@@ -1,5 +1,3 @@
-<!-- FILE: 30-voice-testing-validation.md -->
-
 # Layer 10 — 2.03.30 Voice Testing & Validation
 
 ## Capability Reference

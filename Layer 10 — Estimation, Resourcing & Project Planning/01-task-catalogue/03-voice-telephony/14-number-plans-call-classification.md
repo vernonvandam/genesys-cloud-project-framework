@@ -1,5 +1,3 @@
-<!-- FILE: 14-number-plans-call-classification.md -->
-
 # Layer 10 — 2.03.14 Number Plans & Call Classification
 
 ## Capability Reference

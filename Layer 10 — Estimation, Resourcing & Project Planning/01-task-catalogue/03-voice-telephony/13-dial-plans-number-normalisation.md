@@ -1,5 +1,3 @@
-<!-- FILE: 13-dial-plans-number-normalisation.md -->
-
 # Layer 10 — 2.03.13 Dial Plans & Number Normalisation
 
 ## Capability Reference

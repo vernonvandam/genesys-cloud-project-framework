@@ -1,5 +1,3 @@
-<!-- FILE: 12-number-porting-migration.md -->
-
 # Layer 10 — 2.03.12 Number Porting & Migration
 
 ## Capability Reference

@@ -1,5 +1,3 @@
-<!-- FILE: 21-audio-codecs-media.md -->
-
 # Layer 10 — 2.03.21 Audio, Codecs & Media
 
 ## Capability Reference

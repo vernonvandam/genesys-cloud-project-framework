@@ -1,5 +1,3 @@
-<!-- FILE: 16-outbound-call-routing.md -->
-
 # Layer 10 — 2.03.16 Outbound Call Routing
 
 ## Capability Reference

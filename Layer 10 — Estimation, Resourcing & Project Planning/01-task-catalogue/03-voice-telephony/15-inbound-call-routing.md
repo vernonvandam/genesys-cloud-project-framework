@@ -1,5 +1,3 @@
-<!-- FILE: 15-inbound-call-routing.md -->
-
 # Layer 10 — 2.03.15 Inbound Call Routing
 
 ## Capability Reference
