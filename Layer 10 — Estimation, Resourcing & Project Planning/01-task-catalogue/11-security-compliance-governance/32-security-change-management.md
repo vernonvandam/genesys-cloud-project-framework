@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/32-security-change-management.md
-
 # Layer 10 — 2.11.32 Security Change Management
 
 ## Capability Reference

@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/34-compliance-requirements.md
-
 # Layer 10 — 2.11.34 Compliance Requirements
 
 ## Capability Reference

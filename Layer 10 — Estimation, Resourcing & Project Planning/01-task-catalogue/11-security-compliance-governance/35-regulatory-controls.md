@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/35-regulatory-controls.md
-
 # Layer 10 — 2.11.35 Regulatory Controls
 
 ## Capability Reference

@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/12-divisions-data-segregation.md
-
 # Layer 10 — 2.11.12 Divisions & Data Segregation
 
 ## Capability Reference

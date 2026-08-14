@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/11-permission-policies.md
-
 # Layer 10 — 2.11.11 Permission Policies
 
 ## Capability Reference

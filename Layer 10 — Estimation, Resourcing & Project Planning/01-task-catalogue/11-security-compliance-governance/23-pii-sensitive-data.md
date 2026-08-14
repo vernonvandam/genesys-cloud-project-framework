@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/23-pii-sensitive-data.md
-
 # Layer 10 — 2.11.23 PII & Sensitive Data
 
 ## Capability Reference

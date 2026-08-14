@@ -1,5 +1,3 @@
-FILE: Layer 10 — Estimation, Resourcing & Project Planning/01-task-catalogue/11-security-compliance-governance/16-api-clients-oauth.md
-
 # Layer 10 — 2.11.16 API Clients & OAuth
 
 ## Capability Reference
